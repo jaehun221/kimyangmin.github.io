@@ -9,6 +9,8 @@
 # --- Required options --- #
 ############################
 
+future: true
+
 # Name of website
 title: Kimyangmin
 
