@@ -1,16 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 저를 소개하는 페이지입니다. (짤막하게)
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+저의 이름은 박영민이며, 다음은 저의 특징입니다:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- 현재 성일정보고등학교에서 재학하고 있습니다.
+- Python, Java, C 등의 다양한 언어들을 접해보고 있습니다.
 
-What else do you need?
+## 회사
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+아직은 근무중인 회사가 없네요. 나중에 보죠!
